@@ -16,7 +16,7 @@ You want to learn the p5.js Library?
 Check out the link here: https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1
 
 
-**I am sorry for not uploading the images of cat and mouse, you can find on the internet, crop the image, save on desktop and upload it to p5.js
-Here is a link for that as well: https://www.youtube.com/watch?v=rO6M5hj0V-o **
+**I am sorry for not uploading the images of cat and mouse, you can find on the internet, crop the image, save on desktop and upload it to p5.js**
+Here is a link for that as well: https://www.youtube.com/watch?v=rO6M5hj0V-o *
 
 Have a nice day ;")
