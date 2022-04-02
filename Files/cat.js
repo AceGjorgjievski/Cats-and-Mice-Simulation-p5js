@@ -57,8 +57,8 @@ class Cat {
     if (record < 10) {
       //this.maxspeed = 3;
       list.splice(closest, 1);//if you are close to the mouse, then remove it from the array
-    } else if (closest > -1) {
-      this.seek(list[closest]);//else seek for another one
+    } else if (closest > -1) {//check if the index is different from -1 (invalid index)
+      this.seek(list[closest]);//else seek for that target(mouse)
     }
   }
 
